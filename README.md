@@ -23,7 +23,7 @@ Implement an application which works as follows
    Here we will need m*n number of alphabets.
 4. grid creation done
 5. Display the grid. Now The user can provide a text which needs to be searched in the grid.
-6. If the text is available in the grid, then those alphabets should be highlighted if the text in the grid is readable in left to right direction (east), or top to bottom direction (south) or diagonal (south-east).
+6. If the text is available in the grid, then those alphabets should be highlighted, if the text in the grid is readable in left to right direction (east), or top to bottom direction (south) or diagonal (south-east).
 7. User can change the text provided in step 5 and check for the occurance of the word in the grid.
 
 Note -
